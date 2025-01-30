@@ -1,0 +1,12 @@
+﻿  implementationFile_List.cpp
+  implementationFile_Node.cpp
+  List.cpp
+  main.cpp
+D:\DSA\Single Link_List_templated\main.cpp(8,14): warning C4305: 'argument': truncation from 'double' to 'T'
+D:\DSA\Single Link_List_templated\main.cpp(8,14): warning C4305:         with
+D:\DSA\Single Link_List_templated\main.cpp(8,14): warning C4305:         [
+D:\DSA\Single Link_List_templated\main.cpp(8,14): warning C4305:             T=float
+D:\DSA\Single Link_List_templated\main.cpp(8,14): warning C4305:         ]
+  Node.cpp
+  Generating Code...
+  templated_Link_List.vcxproj -> D:\DSA\Single Link_List_templated\x64\Debug\templated_Link_List.exe

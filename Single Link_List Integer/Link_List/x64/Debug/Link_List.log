@@ -1,0 +1,5 @@
+﻿  List.cpp
+  main.cpp
+  Generating Code...
+D:\DSA\Single Link List\Single Link_List Integer\List.cpp(23,1): warning C4715: 'List::operator=': not all control paths return a value
+  Link_List.vcxproj -> D:\DSA\Single Link List\Single Link_List Integer\x64\Debug\Link_List.exe
